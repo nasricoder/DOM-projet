@@ -1,0 +1,42 @@
+body {
+    background-color: #F5CB5C;
+}
+#cadre {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.card {
+    margin-top: 40px;
+    height: 40%;
+    margin-top: 100px;
+}
+.card-img-top {
+    width: 256px;
+    height: 149px;
+    
+}
+h1 { 
+  text-align: center;
+  margin-top: 50px;
+}
+h2 {
+    text-align: center;
+}
+a {
+    margin-top: 40px;
+}
+.fa-heart {
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.supp {
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.heart {
+    color: red;
+}
